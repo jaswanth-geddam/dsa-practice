@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0344-reverse-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0500-keyboard-row) |
 | [0917-reverse-only-letters](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0917-reverse-only-letters) |
@@ -105,4 +107,8 @@
 | ------- |
 | [0078-subsets](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0090-subsets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
