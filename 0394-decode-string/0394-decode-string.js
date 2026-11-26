@@ -3,38 +3,35 @@
  * @return {string}
  */
 var decodeString = function(s) {
-      
-    let stack = [];
+     let stacknum = [];
+    let stackletter = [];
+    let num = "";
+    let letter = "";
 
     for (let i = 0; i < s.length; i++) {
+        if (s[i] === "[") {
+            stacknum.push(Number(num));
+            stackletter.push(letter);
+            num = '';
+            letter = '';
+        }
+        else if (s[i] === "]") {
+            let count = stacknum.pop();
+            let previous = stackletter.pop();
+            letter = previous + letter.repeat(count);
+        }
 
-        if (s[i] !== ']') {
-            stack.push(s[i]);
-        } 
         else {
-            // Step 1: Get the string inside []
-            let subStr = '';
-
-            while (stack[stack.length - 1] !== '[') {
-                subStr = stack.pop() + subStr;
+            if (!isNaN(s[i])) {
+                num += s[i];
             }
-
-            // Step 2: Remove '['
-            stack.pop();
-
-            // Step 3: Get the repeat number
-            let k = '';
-
-            while (stack.length && !isNaN(stack[stack.length - 1])) {
-                k = stack.pop() + k;
+            else {
+                letter += s[i];
             }
-
-            // Step 4: Repeat the substring
-            stack.push(subStr.repeat(Number(k)));
         }
     }
 
-    return stack.join('');
-};
+    return letter;     
+}
 
     
