@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0078-subsets) |
 | [0414-third-maximum-number](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0455-assign-cookies) |
@@ -85,6 +86,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0832-flipping-an-image) |
 ## Matrix
@@ -96,4 +98,8 @@
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0171-excel-sheet-column-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
