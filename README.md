@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0090-subsets-ii) |
 | [0414-third-maximum-number](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0414-third-maximum-number) |
@@ -105,6 +106,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaswanth-geddam/dsa-practice/tree/master/0090-subsets-ii) |
 ## Recursion
